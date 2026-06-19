@@ -34,7 +34,7 @@ spec:
         - configMapRef:
             name: catalogue
 
----
+--- 
 apiVersion: v1
 kind: Service
 metadata:
